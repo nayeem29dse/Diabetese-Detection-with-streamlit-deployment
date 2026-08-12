@@ -177,7 +177,6 @@ folder (containing the saved imputer, scaler, and model) is present in the
 same directory as `app.py`.
 
 ---
-
 ## Limitations and possible improvements
 
 - **Sample size** — 768 rows is small; several coefficients (Age,
@@ -200,15 +199,14 @@ same directory as `app.py`.
   tree-based model (e.g. LightGBM) would help quantify the accuracy/
   interpretability tradeoff explicitly.
 
-  ## Author
+---
+
+## Disclaimer
+This tool is for educational and portfolio purposes only. It is not a medical
+device and should not be used as a substitute for professional diagnosis.
+
+## Author
 
 **Mehedee Hasan Nyeem**
 
 **Data Science Student**
-
----
-
-## Disclaimer
-
-This tool is for educational and portfolio purposes only. It is not a medical
-device and should not be used as a substitute for professional diagnosis.
