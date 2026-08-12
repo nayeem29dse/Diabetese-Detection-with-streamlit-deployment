@@ -200,6 +200,12 @@ same directory as `app.py`.
   tree-based model (e.g. LightGBM) would help quantify the accuracy/
   interpretability tradeoff explicitly.
 
+  ## Author
+
+**Mehedee Hasan Nyeem**
+
+**Data Science Student**
+
 ---
 
 ## Disclaimer
