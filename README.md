@@ -1,5 +1,5 @@
 [README.md](https://github.com/user-attachments/files/30851902/README.md)
-# 🩺 Diabetes Risk Screening — Logistic Regression
+# 🩺 Diabetes Risk Screening — Logistic Regression.
 
 **Live demo:** [https://diabetese-screening.streamlit.app/](https://diabetese-screening.streamlit.app/)
 
