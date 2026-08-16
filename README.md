@@ -146,14 +146,13 @@ all 10 features.
 
 ```
 .
-├── app.py                  # Streamlit app
-├── requirements.txt        # Dependencies
-├── artifacts/
-├── imputer.pkl          # Fitted SimpleImputer (train-only medians)
-├── scaler.pkl           # Fitted StandardScaler (train-only stats)
+├── app.py                        # Streamlit app
+├── requirements.txt              # Dependencies
+├── imputer.pkl                   # Fitted SimpleImputer (train-only medians)
+├── scaler.pkl                    # Fitted StandardScaler (train-only stats)
 ├── logistic_regression_model.pkl
-└── config.json          # Threshold + feature order
-└── notebooks/               # EDA, modeling, and evaluation notebooks
+└── config.json                   # Threshold + feature order
+└── notebooks/Analysis.ipynb      # EDA, modeling, and evaluation notebooks
 ```
 
 ---
