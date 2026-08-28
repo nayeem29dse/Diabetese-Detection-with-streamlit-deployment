@@ -1,7 +1,7 @@
 [README.md](https://github.com/user-attachments/files/30851902/README.md)
 # 🩺 Diabetes Risk Screening — Logistic Regression.
 
-**Live demo:** [https://diabetese-screening.streamlit.app/](https://diabetese-screening.streamlit.app/)
+**Live demo:**  [https://diabetese-screening.streamlit.app/](https://diabetese-screening.streamlit.app/)
 
 A logistic regression model that estimates diabetes risk from routine diagnostic
 measurements, built as an interpretable screening tool rather than a black-box
